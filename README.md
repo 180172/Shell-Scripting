@@ -7,4 +7,7 @@ This Bash script is a straightforward utility designed to help users determine w
 ### Zip.sh: 
 This Bash script provides a simple menu-based interface for zipping files and directories. It uses the gzip and tar commands to compress files and folders. Users can choose between zipping a file or a directory by selecting the appropriate option. After compression, the script displays the details of the zipped file or directory using stat. It's a straightforward tool for creating compressed archives in Linux environments. You can run the script by executing it in a terminal, and it will guide you through the zipping process.
 
+### BACKUP_OF_ CRITICAL_DATA:
+This Bash script automates the backup of critical data and system configurations listed in `backup_test.txt`. It creates timestamped backups in a specified directory and sends an email notification with backup logs. Ideal for scheduled backups and ensuring data integrity in Linux environments.
+
 
