@@ -3,7 +3,7 @@
    - Includes options for full or incremental backups.
    - Handles error logging and notifications.
 
-# ----
+------
 1. **Prerequisites**: Describes how to install `mailx` and ensure mail server configuration.
 2. **Usage**:
    - Setting up the list of files and directories for backup.
